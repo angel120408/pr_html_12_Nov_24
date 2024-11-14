@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<!--Practica #12-->
+<!--En esta practica veremos como se utiliza una hoja de estilo externa para definir el estilo de muchas páginas HTML.-->
+
+<!--Empieza la ejecucuion de como agregue un enlace a ella en la <head>sección de cada página HTML-->
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>Codigo #12</h1>
+<p>Con este finalizamos los codigos generales.</p>
+
+</body>
+</html>
