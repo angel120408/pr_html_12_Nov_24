@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+<!--Practica #3-->
+<!--En esta practica nos muestra como también puedes ocultar más de una línea-->
+
+<p>Este es el primer parrafo que fue creado como ejemplo del codigo.</p>
+<!--
+<p>Mira esta imagen genial:</p>
+<img border="0" src="pic_trulli.jpg" alt="Trulli">
+-->
+<p>Este tambien es un parrafo, para apoyarnos.</p>
+
+</body>
+</html>
