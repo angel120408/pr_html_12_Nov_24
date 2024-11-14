@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<!--Practica #9-->
+<!--En esta practica veremos como en HTML, los colores también se pueden especificar utilizando valores RGB, valores HEX, valores HSL, valores RGBA y valores HSLA-->
+
+<!--Empieza la ejecucuion con los valores utilizados-->
+<p>La misma que el nombre del color "Tomate":</p>
+
+<h1 style="background-color:rgb(255, 99, 71);">rgb(255, 99, 71)</h1>
+<h1 style="background-color:#ff6347;">#ff6347</h1>
+<h1 style="background-color:hsl(9, 100%, 64%);">hsl(9, 100%, 64%)</h1>
+
+<p>Igual que el nombre del color "Tomate", pero 50% transparente:</p>
+<h1 style="background-color:rgba(255, 99, 71, 0.5);">rgba(255, 99, 71, 0.5)</h1>
+<h1 style="background-color:hsla(9, 100%, 64%, 0.5);">hsla(9, 100%, 64%, 0.5)</h1>
+
+<p>Además de los nombres de colores predefinidos, los colores se pueden especificar usando RGB, HEX, HSL o incluso colores transparentes usando valores de color RGBA o HSLA.</p>
+
+</body>
+</html>
