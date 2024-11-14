@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<!--Practica #8-->
+<!--En esta practica veremos como podemos configurar el color de los bordes de un texto-->
+
+<h1 style="border: 2px solid Tomato;">Holaaa!!!</h1>
+
+<h1 style="border: 2px solid DodgerBlue;">Soy</h1>
+
+<h1 style="border: 2px solid Violet;">Angel</h1>
+
+</body>
+</html>
