@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body>
+<!--Practica #5-->
+
+<!--
+RGB, 
+HEX, 
+HSL, 
+RGBA 
+HSLA.-->
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<!--En esta practica nos muestra como podemos agregar diferentes colores a distintos textos-->
+
+<!--Ejemolo-->
+
+<h1 style="background-color:Tomato;">Color Tomato</h1>
+<h1 style="background-color:Orange;">Color Orange</h1>
+<h1 style="background-color:DodgerBlue;">Color DodgerBlue</h1>
+<h1 style="background-color:MediumSeaGreen;">Color MediumSeaGreen</h1>
+<h1 style="background-color:Gray;">Color Gray</h1>
+<h1 style="background-color:SlateBlue;">Color SlateBlue</h1>
+<h1 style="background-color:Violet;">Color Violet</h1>
+<h1 style="background-color:LightGray;">Color LightGray</h1>
+
+</body>
+</html>
