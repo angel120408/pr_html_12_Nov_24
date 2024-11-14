@@ -70,13 +70,12 @@
 <!DOCTYPE html>
 <html>
 <body>
-<!--Practica #4-->
-<!--En esta practica nos muestra como los comentarios se pueden utilizar para ocultar partes en medio del código HTML-->
 
-<p>Este <!-- gran texto, > es un párrafo.</p>
+<p>Este <!-- Es un gran texto --> es un gran parrafo.</p>
 
 </body>
 </html>
+
 
 ![image](https://github.com/user-attachments/assets/b61c129f-fa1f-402b-abfb-aed3b791b69c)
 ![image](https://github.com/user-attachments/assets/8e59e7d0-a248-429c-b535-53201c02ac75)
@@ -193,63 +192,132 @@ Con su OOTD, OOTD.</p>
 # Codigo #8
 - Codigo creado con los ejemplos de classroom
 
+<!DOCTYPE html>
+<html>
+<body>
 
+<!--Practica #8-->
+<!--En esta practica veremos como podemos configurar el color de los bordes de un texto-->
 
+<h1 style="border: 2px solid Tomato;">Holaaa!!!</h1>
 
+<h1 style="border: 2px solid DodgerBlue;">Soy</h1>
 
+<h1 style="border: 2px solid Violet;">Angel</h1>
 
+</body>
+</html>
 
-
-
+![image](https://github.com/user-attachments/assets/925ce875-745f-4291-9b88-67bf079c3575)
+![image](https://github.com/user-attachments/assets/3c65fb8a-87ba-4819-8378-040012094bcd)
 
 
 # Codigo #9
 - Codigo creado con los ejemplos de classroom
 
+<!DOCTYPE html>
+<html>
+<body>
 
+<!--Practica #9-->
+<!--En esta practica veremos como en HTML, los colores también se pueden especificar utilizando valores RGB, valores HEX, valores HSL, valores RGBA y valores HSLA-->
 
+<!--Empieza la ejecucuion con los valores utilizados-->
+<p>La misma que el nombre del color "Tomate":</p>
 
+<h1 style="background-color:rgb(255, 99, 71);">rgb(255, 99, 71)</h1>
+<h1 style="background-color:#ff6347;">#ff6347</h1>
+<h1 style="background-color:hsl(9, 100%, 64%);">hsl(9, 100%, 64%)</h1>
 
+<p>Igual que el nombre del color "Tomate", pero 50% transparente:</p>
+<h1 style="background-color:rgba(255, 99, 71, 0.5);">rgba(255, 99, 71, 0.5)</h1>
+<h1 style="background-color:hsla(9, 100%, 64%, 0.5);">hsla(9, 100%, 64%, 0.5)</h1>
 
+<p>Además de los nombres de colores predefinidos, los colores se pueden especificar usando RGB, HEX, HSL o incluso colores transparentes usando valores de color RGBA o HSLA.</p>
 
+</body>
+</html>
 
-
-
+![image](https://github.com/user-attachments/assets/d2d60b3a-ff9e-4d40-91d7-e1971f769c2c)
+![image](https://github.com/user-attachments/assets/ef09e55f-7217-41b2-83ef-191f8ce61e01)
 
 
 # Codigo #10
 - Codigo creado con los ejemplos de classroom
 
+<!DOCTYPE html>
+<html>
+<body>
 
+<!--Practica #10-->
+<!--En esta practica veremos como CSS ahorra mucho trabajo, ya que permite controlar el diseño de varias páginas web a la vez.-->
 
+<!--Empieza la ejecucuion controlando el diseño-->
 
+<h1 style="color:blue;">CSS ahorra mucho trabajo</h1>
 
+<p style="color:red;">En esta practica nos muestra como podemos agregar color a los textos, a su vez nos muestra como usando CSS podemos ahorrar mas trabajo, para que sea mas rapido.</p>
 
+</body>
+</html>
 
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/06e2b8d5-2b1e-417c-8799-29dc4770d423)
+![image](https://github.com/user-attachments/assets/928f07ed-d26d-41cf-964a-a202bf9b5fa8)
 
 # Codigo #11
 - Codigo creado con los ejemplos de classroom
 
 
+<!DOCTYPE html>
+<html>
+<body>
 
+<!--Practica #11-->
+<!--En esta practica veremos como se utiliza un CSS interno para definir un estilo para una sola página HTML.-->
 
+<!--Empieza la ejecucuion de como establece el color del texto de TODOS los <h1>elementos (en esa página)-->
 
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
+<body>
 
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
 
+</body>
+</html>
 
-
-
-
+![image](https://github.com/user-attachments/assets/20c1c550-e0d7-4bf8-99c5-5855db03b3a6)
+![image](https://github.com/user-attachments/assets/8a7b8bfb-9181-4d24-8a21-0b1afe93acca)
 
 
 # Codigo #12
 - Codigo creado con los ejemplos de classroom
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<!--Practica #12-->
+<!--En esta practica veremos como se utiliza una hoja de estilo externa para definir el estilo de muchas páginas HTML.-->
+
+<!--Empieza la ejecucuion de como agregue un enlace a ella en la <head>sección de cada página HTML-->
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>Codigo #12</h1>
+<p>Con este finalizamos los codigos generales.</p>
+
+</body>
+</html>
+
+![image](https://github.com/user-attachments/assets/fe33a700-5ed6-4e26-9951-65bf0877ff9a)
+![image](https://github.com/user-attachments/assets/e6158d4d-574d-4c73-9cd0-9f85755ac2dc)
 
 
 
@@ -259,10 +327,3 @@ Con su OOTD, OOTD.</p>
 
 
 
-
-
-
-# Codigo #13
-- Codigo creado con los ejemplos de classroom
-
-# Codigo #
