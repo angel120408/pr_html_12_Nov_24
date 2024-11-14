@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<!--Practica #10-->
+<!--En esta practica veremos como CSS ahorra mucho trabajo, ya que permite controlar el diseño de varias páginas web a la vez.-->
+
+<!--Empieza la ejecucuion controlando el diseño-->
+
+<h1 style="color:blue;">CSS ahorra mucho trabajo</h1>
+
+<p style="color:red;">En esta practica nos muestra como podemos agregar color a los textos, a su vez nos muestra como usando CSS podemos ahorrar mas trabajo, para que sea mas rapido.</p>
+
+</body>
+</html>
